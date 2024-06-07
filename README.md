@@ -25,7 +25,7 @@ The processed data for fine tuning can be found at [D&D Monster Hugging Face Dat
 * Trained our model and tested on simple prompts (with no specific) and targetted prompts (requiring specific info included in statblock).
 * Saved our model locally and pushed LoRA adapters to Hugging Face.
 
-<img src="images/dnd-statblock-generator-1.png"/>
+<img src="https://tophercollins.github.io/images/dnd-statblock-generator-1.png"/>
 
 ## Conclusion
 
